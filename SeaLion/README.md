@@ -1,8 +1,12 @@
 # Sea Lion - monitor de calidad de agua
 
-## 2018-01-03
+## Documentación
 
-* Creamos repro y proyecto en github
-* Definimos el primer [backlog](https://github.com/rlyehlab/ciencia-comunitaria/projects/1#column-1958569)
-* Resolvimos que necesitamos ir al campo para terminar de definir el backlog con la información que sacamos de hablar con la gente
-* seykron va a contactar a Dani para hacer el contacto y tratar de ir a campo en enero
+[Bitácora donde documentamos el proceso de desarrollo](bitacora.md)
+
+[Prespuesto y costos del proyecto](presupuesto.md)
+
+## Desarrollo
+
+Hay un [sistema de monitoreo de agua con arduino](http://www.instructables.com/id/Water-Quality-Monitoring-and-Notification-System-U) funcionando en el que nos vamos a basar.
+
