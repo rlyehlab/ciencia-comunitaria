@@ -1,3 +1,8 @@
+## 2018-01-16   
+
+- Posible fecha de visita a escuela de la UNSAM: principios de febrero
+- Volver a chequear post-vacaciones
+
 ## 2018-01-03
 
 - Creamos repo y proyectos en GitHub
