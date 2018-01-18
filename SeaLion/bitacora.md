@@ -1,7 +1,10 @@
-# 2018-01-18
+# 2018-01-17
 
 * Nos reunimos y empezamos a probar sensores con arduino. Probamos un sensor de proximidad e intentamos mostrar el valor en un display LCD.
 * El sensor de proximidad anda genial, pero no pudimos mostrar el valor en el LCD porque la prueba de concepto documentada en el sitio de arduino no nos funcionó. Continuaremos la próxima vez.
+
+![placa](media/fotos/2018-01-17-poc-arduino.jpg)
+
 
 # 2018-01-05
 
