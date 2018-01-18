@@ -1,3 +1,12 @@
+## 2018-01-17
+
+- Installamos IDE 
+- Intro a Arduino
+- Testeamos placas y sensores
+![placa](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/fotos/arduino.jpg)
+
+
+
 ## 2018-01-16   
 
 - Posible fecha de visita a escuela de la UNSAM: principios de febrero
