@@ -1,3 +1,16 @@
+## 2018-02-07
+
+- Charlamos sobre pasos a seguir próximamente
+- Definimos que las minutas van a ir en una carpeta aparte y linkeadas en esta bitácora, [así]()
+- Antes del martes 13/02: confeccionar material difusión de los proyectos en base al modelo que subió Daniel al GitHub
+- AGUAS: proyecto a coordinar con Mesa Reconquista - Seykron coordina visita con Mario a la zona un sábado
+- ETER: proyecto que queda mas a nivel escuela, Daniel presenta el material entre los profes la próxima semana y vamos coordinando visita (en la semana)
+
+
+## 2018-01-31
+
+- Relevamos toda la info necesaria para presentar la segunda etapa del mini grant de Mozilla
+
 ## 2018-01-17
 
 - Installamos IDE 
