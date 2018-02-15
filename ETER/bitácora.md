@@ -1,3 +1,11 @@
+## 2018-02-14
+
+- Objetivo de la reunión: definir agenda
+- Minuta de la reunión [acá]()
+- Creamos issues en GH para seguir las tareas de cada uno
+- David trajo sensores que compró en Chile: Sharp polucion v3  gp2y1010auof
+- Próximo miercoles dedicado a investigación area tecnica
+
 ## 2018-02-07
 
 - Charlamos sobre pasos a seguir próximamente
