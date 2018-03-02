@@ -1,3 +1,23 @@
+## 2018-02-28
+
+- Discutimos los pedidos de información adicional del mini grant de Mozilla
+- Se presentó Karen, que llegó por medio de @lasdesistemas con ganas de saber sobre ETER
+- Daniel presentó un [tríptico](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/recursos/eter.pdf) que hizo para trabajarla difusión del proyecto
+- Se decidió que habrá tres materiales de difusión principales con la misma estética: el tríptico, un flyer y el pdf largo.
+- Tenemos [logo]!(https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/recursos/photo231670300179278018.jpg)
+- Trabajamos en el [Open Canvas](https://thessaly.github.io/ETER_MozOL/), una propuesta del programa Mozilla Open Leaders para bajar las ideas a objetivos y recursos en concreto
+- Planificamos visita a campo para 10/03
+
+ACTION ITEMS (a issues): 
+- Terminar el pdf largo 
+- Cerrar el tríptico
+- Trabajar en cronograma
+- Invitar a Aerocene y expertos de gammification
+
+## 2018-02-21
+
+Suspendida 
+
 ## 2018-02-14
 
 - Objetivo de la reunión: definir agenda
