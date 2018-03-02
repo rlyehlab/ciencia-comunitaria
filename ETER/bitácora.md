@@ -1,7 +1,7 @@
 ## 2018-02-14
 
 - Objetivo de la reunión: definir agenda
-- Minuta de la reunión [acá]()
+- Minuta de la reunión [acá](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/minutas/14022018.md)
 - Creamos issues en GH para seguir las tareas de cada uno
 - David trajo sensores que compró en Chile: Sharp polucion v3  gp2y1010auof
 - Próximo miercoles dedicado a investigación area tecnica
@@ -9,7 +9,7 @@
 ## 2018-02-07
 
 - Charlamos sobre pasos a seguir próximamente
-- Definimos que las minutas van a ir en una carpeta aparte y linkeadas en esta bitácora, [así]()
+- Definimos que las minutas van a ir en una carpeta aparte y linkeadas en esta bitácora, [así](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/minutas/07022018.md)
 - Antes del martes 13/02: confeccionar material difusión de los proyectos en base al modelo que subió Daniel al GitHub
 - AGUAS: proyecto a coordinar con Mesa Reconquista - Seykron coordina visita con Mario a la zona un sábado
 - ETER: proyecto que queda mas a nivel escuela, Daniel presenta el material entre los profes la próxima semana y vamos coordinando visita (en la semana)
