@@ -1,3 +1,18 @@
+## 2018-03-10 Visita a campo
+
+
+## 2018-03-07
+- Se sumó al proyecto Joaquín Ezcurra de Aerocene
+- Aerocene puede prestar globos que pueden servir para la jornada de lanzamiento
+- Aerocene tiene interés en instalar sensores de aire en los globos
+- Se puede realizar un globo a partir de bolsas de basura del barrio, es reutilizable, sirve de instalación artística
+- Podemos ligar la temática del globo al desarrollo del juego
+- Cambiar la foto del tríptico por una de Aerocene
+- Contactar en un futuro a Debora Suitson, del Gino Germani (trabaja en Villa Inflamable, puede tener interés)
+- Armar la wiki / landing page: necesitamos contactar diseñador (deadline miércoles 14/03)
+- Para el handbook: armar discourse
+- Joaquín nos pide participar del foro de Aerocene en el thread de ETER (forum.aerocene.org)
+
 ## 2018-02-28
 
 - Discutimos los pedidos de información adicional del mini grant de Mozilla
@@ -8,15 +23,15 @@
 - Trabajamos en el [Open Canvas](https://thessaly.github.io/ETER_MozOL/), una propuesta del programa Mozilla Open Leaders para bajar las ideas a objetivos y recursos en concreto
 - Planificamos visita a campo para 10/03
 
-ACTION ITEMS (a issues): 
-- Terminar el pdf largo 
+ACTION ITEMS (a issues):
+- Terminar el pdf largo
 - Cerrar el tríptico
 - Trabajar en cronograma
 - Invitar a Aerocene y expertos de gammification
 
 ## 2018-02-21
 
-Suspendida 
+Suspendida
 
 ## 2018-02-14
 
@@ -41,7 +56,7 @@ Suspendida
 
 ## 2018-01-17
 
-- Installamos IDE 
+- Installamos IDE
 - Intro a Arduino
 - Testeamos placas y sensores
 ![placa](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/fotos/arduino.jpg)
