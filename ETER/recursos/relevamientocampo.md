@@ -1,7 +1,8 @@
 # Relevamiento de campo
 
 **Fecha**: 10/03/2018    
-**Asistentes**: Daniel, David, Panda, Pato, Juli
+**Asistentes**: Daniel, David, Panda, Pato, Juli    
+[**Fotos**](https://cloud.rlab.be/s/ThrN3qREblHybbE)
 
 El recorrido empezó en el Bachillerato Popular 'La Esperanza' donde nos atendió Mario, referente de la comunidad y de la Mesa Reconquista, una coordinadora de 22 organizaciones barriales en el Área Reconquista trabajando desde 2015 (limitada por Río Reconquista, Av. Márquez, partido de Vicente López y partido de Tres de Febrero). Viven 200 mil personas, no hay establecimientos educativos públicos, están sobre terreno de relleno (la mitad aproximadamente).
 
