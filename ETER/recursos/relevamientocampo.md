@@ -1,6 +1,6 @@
 # Relevamiento de campo
 
-**Fecha**: 10/03/2018
+**Fecha**: 10/03/2018    
 **Asistentes**: Daniel, David, Panda, Pato, Juli
 
 El recorrido empezó en el Bachillerato Popular 'La Esperanza' donde nos atendió Mario, referente de la comunidad y de la Mesa Reconquista, una coordinadora de 22 organizaciones barriales en el Área Reconquista trabajando desde 2015 (limitada por Río Reconquista, Av. Márquez, partido de Vicente López y partido de Tres de Febrero). Viven 200 mil personas, no hay establecimientos educativos públicos, están sobre terreno de relleno (la mitad aproximadamente).
@@ -24,6 +24,6 @@ Bachillerato La Esperanza
 | Posta Santana (Tren diesel)|     | Matías        |  |  | 5 |
 
 
-Lunes 12/03 presentación del proyecto en Mesa Reconquista
-Semana 19/03 reunión con profes equipo de referentes posible + docentes de la Escuela UNSAM
+Lunes 12/03 presentación del proyecto en Mesa Reconquista    
+Semana 19/03 reunión con profes equipo de referentes posible + docentes de la Escuela UNSAM    
 Semana del 22 de marzo: actividades por 30 años de la radio --> Actividad lanzamiento con Aerocene?
