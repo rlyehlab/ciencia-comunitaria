@@ -1,5 +1,5 @@
 ## 2018-03-10 Visita a campo
-
+- Ver [relevamiento de campo](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/recursos/relevamientocampo.md)
 
 ## 2018-03-07
 - Se sumó al proyecto Joaquín Ezcurra de Aerocene
