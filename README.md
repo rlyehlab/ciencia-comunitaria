@@ -1,30 +1,75 @@
-# ETER || Monitor libre de calidad de aire para investigación y educación 
+# ETER
+
+**Monitor libre de calidad de aire para proyectos de ciencia comunitaria** 
+
+## ¡Bienvenida!
+
+En esta página (o archivo README.md) vas a encontrar toda la información actualizada sobre el proyecto ETER. 
+
+Podés seguir leyendo más abajo o ir directamente a alguna de las siguientes secciones:
+
+* [¿Qué estamos haciendo y por qué?](#qué-estamos-haciendo)
+* [¿Quiénes somos?](#quiénes-somos)
+* [¿Qué necesitamos?](#qué-necesitamos)
+* [¿Cómo colaborar?](#cómo-colaborar)
+* [Contacto](#contacto)
+* [Más información](#más-información)
+* [Glosario](#glosario)
+
+# ¿Qué estamos haciendo? 
 
 ## El problema 
-La contaminación del aire es una amenaza invisible que afecta la salud del 80% de la población en centros urbanos como Buenos Aires[1](http://breathelife2030.org/). En 2016 la OMS clasificó a Buenos Aires dentro de las ciudades que superan el límite de 10 μg/m3 para material particulado menor a 2.5 micrones[2](http://gamapserver.who.int/gho/interactive_charts/phe/oap_exposure/atlas.html), altamente nocivo para la salud humana. Sin embargo, la información pública sobre la calidad del aire del Área Metropolitana de Buenos Aires es inexistente.
+La contaminación del aire es una amenaza invisible que afecta la salud del 80% de la población en centros urbanos como Buenos Aires[1](http://breathelife2030.org/). En 2016 la OMS clasificó a Buenos Aires dentro de las ciudades que superan el límite de 10 μg/m3 para material particulado menor a 2.5 micrones[2](http://gamapserver.who.int/gho/interactive_charts/phe/oap_exposure/atlas.html), altamente nocivo para la salud humana. 
 
-
-## Una alternativa libre 
-La disponibilidad de sensores de bajo costo combinada con la ética del software y la cultura libres abre posibilidades para desarrollar dispositivos de monitoreo ambiental comunitarios. Como hacklab, nos interesa trabajar la metodología de prototipado con la comunidad, ya que nos permite formarnos entre todas e integrar distintos tipos de conocimiento en la construcción de un objeto material. 
-
+Sin embargo, la información pública sobre la calidad del aire del Área Metropolitana de Buenos Aires es inexistente. Las mediciones privadas son caras e inaccesibles, y los datos difíciles de leer.
 
 ## ¿Qué queremos hacer? 
-Con este proyecto pretendemos actualizar y documentar el prototipo de monitor abierto de calidad de aire desarrollado en Mendoza por el [Proyecto MACA](monitorabierto.wikidot.com). Este monitor quedó obsoleto porque algunos componentes fueron discontinuados. En este caso, nos interesa co-prototipar un sensor de PM10 y PM2.5 con docentes de escuelas técnicas del conurbano y generar materiales educativos libres para que se pueda reproducir la experiencia. Además, los datos generados van a ser alojados en nuestros servidores, puestos a libre disponibilidad. 
+Pensamos que las personas tienen que conocer las herramientas disponibles que las pueden ayudar a visibilizar y buscar soluciones a sus problemas de todos los días. Combinando sensores de bajo costo disponibles en el mercado con la ética y filosofía del software libre, queremos mostrar cómo se pueden construir herramientas libres que sean útiles para las personas.
 
-## Financiamiento
-En principio el proyecto lo vamos a finaciar las personas interesadas.
+Pretendemos construir un dispositivo que mida la calidad del aire (PM2.5 y PM10) basándonos en el [Proyecto MACA](monitorabierto.wikidot.com). Lo hacemos junto a docentes de José León Suárez (Escuela Técnica UNSAM) y referentes comunitarios, generando materiales educativos libres para que se pueda reproducir la experiencia. Además, los datos generados van a ser alojados en nuestros servidores, puestos a libre disponibilidad.
 
-Aplicamos para una beca de [Mozilla Science](https://science.mozilla.org/) por un monto de 5000usd, y tendremos una respuesta en marzo. Adjuntamos la Letter of Intent que enviamos a Mozilla.
+# ¿Quiénes somos?
+El proyecto surge de diferentes personas trabajando en [R'lyeh](https://wiki.rlab.be), un hacklab o espacio comunitario horizontal en la Ciudad de Buenos Aires donde trabajamos temas de tecnología bajo la filosofía del software libre. Actualmente participamos [David](https://github.com/violenti), [Daniel](https://github.com/Danieldaza), [Marshmaline](https://github.com/Marshmaline), [Vladimir](https://github.com/vladimirAvilaProsser), [Zeta](https://github.com/z37a), [Juli](https://github.com/thessaly), [Nano](https://github.com/nanocastro) y Patricia.
 
-## Documentación
-La bitácora del proyecto se puede encontrar en [GitHub](https://github.com/rlyehlab/ciencia-comunitaria/tree/master/ETER)
+El proyecto está siendo mentoreado dentro del programa [Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#cohort-d) de la [Fundación Mozilla](https://www.mozilla.org/es-ES/foundation/), y tiene apoyo también de la [Universidad Nacional de San Martín](http://www.unsam.edu.ar/) y el colectivo de artistas [Aerocene](http://aerocene.org/). 
 
-El Plan de Trabajo también se puede consultar en este [proyecto de GitHub](https://github.com/rlyehlab/ciencia-comunitaria/projects/2) donde las tareas se manejan como issues.
+Aplicamos para una beca de [Mozilla Science](https://science.mozilla.org/) para financiar el proyecto, de la cual estamos esperando respuesta. Podés encontrar la propuesta que enviamos a Mozilla [acá](https://github.com/rlyehlab/eter/blob/master/financiamiento/letter_of_intent.md)
 
-El Presupuesto también puede consultarse en [este archivo](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/presupuesto.md) en GitHub
+# ¿Qué necesitamos?
+Toda colaboración es bienvenida :D
 
-Todo se puede consultar también en [nuestra wiki](https://rlab.be)
+Necesitamos gente que sepa de desarrollo de software, páginas web, diseño, electrónica, hardware, educación, desarrollo de juegos, trabajo con la comunidad, ciencia comunitaria, contaminación atmosférica... Siempre hay algo para hacer :)
 
-Si estás interesada en participar de este proyecto, mandanos un mail a [[contacto@rlab.be]]
+¡También nos gustaría recibir opiniones constructivas a medida que vamos desarrollando el proyecto!
 
+# ¿Cómo colaborar?
+Si querés colaborar podés chequear nuestra [guía para colaboradores](CONTRIBUTING.md) y nuestro [proyecto](../../issues/1), donde listamos todas las tareas que necesitamos hacer.
+
+Para nosotras es importante mantener un clima de cordialidad y apoyo, para además de trabajar en el proyecto poder pasarla lo mejor posible :) Por eso te pedimos que leas nuestro [código de conducta](CODE_OF_CONDUCT.md) que aplica tanto online como para cuando nos reunimos personalmente. 
+
+# Contacto
+Si tenés dudas o preguntas podés contactarnos al mail [[contacto@rlab.be]] o si te animás abriendo un issue directamente en este repositorio en GitHub.  
+
+# Más información
+Puede que estés interesada en chequear la siguiente info:
+
+* La bitácora del proyecto se puede encontrar en [GitHub](https://github.com/rlyehlab/ciencia-comunitaria/tree/master/ETER)
+* El Plan de Trabajo también se puede consultar en este [proyecto de GitHub](https://github.com/rlyehlab/ciencia-comunitaria/projects/2) donde las tareas se manejan como issues.
+* El Presupuesto también puede consultarse en [este archivo](https://github.com/rlyehlab/ciencia-comunitaria/blob/master/ETER/presupuesto.md) en GitHub
+* Todo se puede consultar también en [nuestra wiki](https://rlab.be) del hacklab
+
+# ¡Gracias!
+
+ETER es un proyecto colaborativo y lo vamos haciendo entre todas. ¡Gracias por el tiempo!
+
+# Glosario
+
+* **OMS**: Organización Mundial para la Salud
+* **PM 2.5**: Material particulado de tamaño menor a 2.5 micrones
+* **PM 10**: Material particulado de tamaño menor a 10 micrones
+* **Software libre**: Software que puede ser copiado, estudiado, modificado, utilizado libremente con cualquier fin y redistribuido con o sin cambios o mejoras
+* **Hacklab**: Es un espacio físico para hackear, aprender a hackear, enseñar a hackear, crear, romper arreglar y desarrollar. Hackear no es solo software, lo entendemos y extendemos a todas las áreas. 
+* **archivo README**: un documento que presenta un proyecto abierto al público y potenciales colaboradores 
+* **repositorio** or **repo**: un conjunto de documentos relacionados al proyecto, donde se guarda tanto código como contenido
+* **Issue**: el término que GitHub utiliza para las tareas y mejoras para realizar en los proyectos
 
