@@ -1,6 +1,6 @@
 ## 2018-03-16
 - Se suma un diseñador, Leonardo, a hacer la web del proyecto, viene el miercoles
-- Se suma Débora Swistum, la Antropologa que nos recomendó Joaquín de Aerocene, quiere venir a ayudar con la documentación para replicar en otros barrios.
+- Se suma Débora Swistum, la Antropologa que nos recomendó Joaquín de Aerocene, quiere venir a ayudar con la documentación para replicar en otros barrios (tb viene mircoles)
 - Se suma Julieta Lombardelli del Lifia-UNLP, especialista en ludificación y ciencia abierta. Nos va a pasar guías para pensar el juego y se suma remoto el próximo mircoles
 
 ## 2018-03-15
