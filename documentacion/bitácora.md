@@ -1,3 +1,24 @@
+## 2018-03-16
+- Se suma un diseñador, Leonardo, a hacer la web del proyecto, viene el miercoles
+- Se suma Débora Swistum, la Antropologa que nos recomendó Joaquín de Aerocene, quiere venir a ayudar con la documentación para replicar en otros barrios.
+- Se suma Julieta Lombardelli del Lifia-UNLP, especialista en ludificación y ciencia abierta. Nos va a pasar guías para pensar el juego y se suma remoto el próximo mircoles
+
+## 2018-03-15
+- Dani presentó el proyecto en la escuela, le gusto al Vice-director que sugirio trabajar con el equipo de profes de ambiente
+
+## 2018-03-14
+- Nos contactaron de Córdoba (Daniel Bellomo) para participar del proyecto con la idea de replicarlo
+- Juli contó la charla con Nano Castro, que quiere unir MACA a ETER en términos de difusión
+- David mencionó un proyecto de México que trabaja los datos de aire en formato semáforo, como los chicos de M7 (Pío) con [Qué pasa Bahía Blanca](https://github.com/chparsons/qpbb)
+- Hay que hablar con Pio para ver si quiere participar del diseño del juego
+- Hablar con Joaquin, el globo lo podemos usar hacia el final del proyecto pero no ahora
+- Colaboración: unir los repos en ingls y español (crear una branch)
+- Difusión web: no puede ser todo texto, si va dirigido a la comunidad hay que trabajar sobre el diseño
+- Hay que agregar la URL del proyecto al tríptico
+- Daniel va a cerrar una fecha para trabajar con los profes de escuela esta semana o la prxima
+- Existe la posibilidad de agregar una instancia institucional via Circulo de Estudios UNSAM
+- La idea es trabajar con la gente de la escuela y el barrio a partir del dispositivo, en talleres que luego se documenten
+
 ## 2018-03-10 Visita a campo
 - Ver [relevamiento de campo](https://github.com/rlyehlab/eter/blob/master/recursos/relevamientocampo.md)
 
