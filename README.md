@@ -24,9 +24,9 @@ La contaminación del aire es una amenaza invisible que afecta la salud del 80% 
 Sin embargo, la información pública sobre la calidad del aire del Área Metropolitana de Buenos Aires es inexistente. Las mediciones privadas son caras e inaccesibles, y los datos difíciles de leer.
 
 ## ¿Qué queremos hacer? 
-Pensamos que las personas tienen que conocer las herramientas disponibles que las pueden ayudar a visibilizar y buscar soluciones a sus problemas de todos los días. Combinando sensores de bajo costo disponibles en el mercado con la ética y filosofía del software libre, queremos mostrar cómo se pueden construir herramientas libres que sean útiles para las personas.
-
 Pretendemos construir un dispositivo que mida la calidad del aire (PM2.5 y PM10) basándonos en el [Proyecto MACA](monitorabierto.wikidot.com). Lo hacemos junto a docentes de José León Suárez (Escuela Técnica UNSAM) y referentes comunitarios, generando materiales educativos libres para que se pueda reproducir la experiencia. Además, los datos generados van a ser alojados en nuestros servidores, puestos a libre disponibilidad.
+
+Pensamos que las personas tienen que conocer las herramientas disponibles que las pueden ayudar a visibilizar y buscar soluciones a sus problemas de todos los días. Combinando sensores de bajo costo disponibles en el mercado con la ética y filosofía del software libre, queremos mostrar cómo se pueden construir herramientas libres que sean útiles para las personas.
 
 # ¿Quiénes somos?
 El proyecto surge de diferentes personas trabajando en [R'lyeh](https://wiki.rlab.be), un hacklab o espacio comunitario horizontal en la Ciudad de Buenos Aires donde trabajamos temas de tecnología bajo la filosofía del software libre. Actualmente participamos [David](https://github.com/violenti), [Daniel](https://github.com/Danieldaza), [Marshmaline](https://github.com/Marshmaline), [Vladimir](https://github.com/vladimirAvilaProsser), [Zeta](https://github.com/z37a), [Juli](https://github.com/thessaly), [Nano](https://github.com/nanocastro) y Patricia.
@@ -48,7 +48,7 @@ Si querés colaborar podés chequear nuestra [guía para colaboradores](CONTRIBU
 Para nosotras es importante mantener un clima de cordialidad y apoyo, para además de trabajar en el proyecto poder pasarla lo mejor posible :) Por eso te pedimos que leas nuestro [código de conducta](CODE_OF_CONDUCT.md) que aplica tanto online como para cuando nos reunimos personalmente. 
 
 # Contacto
-Si tenés dudas o preguntas podés contactarnos al mail [[contacto@rlab.be]] o si te animás abriendo un issue directamente en este repositorio en GitHub.  
+Si tenés dudas o preguntas podés contactarnos al mail <contacto@rlab.be> o si te animás abriendo un issue directamente en este repositorio en GitHub.  
 
 # Más información
 Puede que estés interesada en chequear la siguiente info:
