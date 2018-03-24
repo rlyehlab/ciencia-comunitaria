@@ -33,7 +33,7 @@ Pensamos que las personas tienen que conocer las herramientas disponibles que la
 ### :balloon: ¿Quiénes somos?
 El proyecto surge de diferentes personas trabajando en [R'lyeh](https://wiki.rlab.be), un hacklab o espacio comunitario horizontal en la Ciudad de Buenos Aires donde trabajamos temas de tecnología bajo la filosofía del software libre. Actualmente participamos [David](https://github.com/violenti), [Daniel](https://github.com/Danieldaza), [Marshmaline](https://github.com/Marshmaline), [Vladimir](https://github.com/vladimirAvilaProsser), [Zeta](https://github.com/z37a), [Juli](https://github.com/thessaly), [Nano](https://github.com/nanocastro) y Patricia.
 
-El proyecto está siendo mentoreado dentro del programa [Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#cohort-d) de la [Fundación Mozilla](https://www.mozilla.org/es-ES/foundation/), y tiene apoyo también de la [Universidad Nacional de San Martín](http://www.unsam.edu.ar/) y el colectivo de artistas [Aerocene](http://aerocene.org/).
+Julieta es parte del programa [Open Leaders](https://mozilla.github.io/leadership-training/round-5/projects/#cohort-d) de la [Fundación Mozilla](https://www.mozilla.org/es-ES/foundation/) con este proyecto. La [Universidad Nacional de San Martín](http://www.unsam.edu.ar/) y el colectivo de artistas [Aerocene](http://aerocene.org/) son dos de las instituciones que forman parte de ETER.
 
 Aplicamos para una beca de [Mozilla Science](https://science.mozilla.org/) para financiar el proyecto, de la cual estamos esperando respuesta. Podés encontrar la propuesta que enviamos a Mozilla [acá](https://github.com/rlyehlab/eter/blob/master/financiamiento/letter_of_intent.md)
 
