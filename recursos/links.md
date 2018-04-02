@@ -43,3 +43,7 @@ https://www.miun.se/siteassets/fakulteter/nmt/summer-university/sharp-dust-senso
 https://www.sparkfun.com/datasheets/Sensors/gp2y1010au_e.pdf
 
 http://rambal.com/gases-polucion/599-dust-sensor-gp2y1010au0f-v3.html?search_query=polucion&results=2
+
+### Proyectos hermanos
+
+http://wiki.unloquer.org/personas/brolin/proyectos/agentes_calidad_aire
