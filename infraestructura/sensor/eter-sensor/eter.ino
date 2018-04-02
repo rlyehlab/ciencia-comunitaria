@@ -24,7 +24,7 @@ void setup() {
 
   Serial.begin(9600);
   Serial.println();
-   WiFi.begin("Cthulhu The Great Dreamer", "otra passWord mas");
+   WiFi.begin("ssid", "passw");
 
   Serial.print("Connecting");
   while (WiFi.status() != WL_CONNECTED)
