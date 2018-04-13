@@ -29,6 +29,8 @@ http://pdacontrolen.com/esp8266-grafana-influxdb-node-red-arduino-mqtt/
 
 ### Proyectos de polución
 
+http://wiki.unloquer.org/personas/brolin/proyectos/agentes_calidad_aire
+
 http://arduinosensor.tumblr.com/
 
 https://github.com/vlytsus/arduinosensor
