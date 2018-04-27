@@ -1,6 +1,6 @@
-# ¡Quiero contribuir a ETER!
+# I want to contribute!
 
-Antes que nada... Gracias por tus ganas y tu tiempo :smile:: :sparkling_heart: :sparkles:
+First of all, thanks :smile:: :sparkling_heart: :sparkles:
 
 ## Cosas importantes
 
