@@ -13,7 +13,7 @@ First of all, thanks :smile:: :sparkling_heart: :sparkles:
 
 ## Code of conduct
 
-This project and all its members agree to follow the [Code of conduct](CODE_OF_CONDUCT_ES.md). If you want to collaborate, we'll also ask you to follow it.
+This project and all its members agree to follow the [Code of conduct](CODE_OF_CONDUCT.md). If you want to collaborate, we'll also ask you to follow it.
 
 You can report any unacceptable situationvia e-mail: [contacto@rlab.be](mailto:contacto@rlab.be).
 
