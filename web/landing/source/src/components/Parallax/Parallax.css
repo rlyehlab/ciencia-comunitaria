@@ -1,0 +1,13 @@
+.Parallax {
+  height: 70vh !important;
+}
+.Parallax.parallax .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100%;
+}
+.Parallax .container .description {
+  margin-top: 0;
+}
