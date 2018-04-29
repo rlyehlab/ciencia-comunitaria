@@ -1,0 +1,28 @@
+{
+  "home": {
+    "header": {
+      "title": "ETER",
+      "subtitle": "Monitor libre de calidad de aire para proyectos de ciencia comunitaria"
+    },
+    "lngError": "Lo lamentamos! Ha habido un error al intentar cambiar el idioma, en los proximos dias lo solucionaremos!",
+    "whatdoing": {
+      "title": "Que hacemos?",
+      "description": "ETER es un proyecto que construye, junto a docentes y referentes comunitarios, monitores abiertos de calidad de aire para medir material particulado (PM 10, PM 2.5) en el Área Metropolitana de Buenos Aires, bajo la filosofía del software libre. La experiencia está siendo documentada completamente online a fin de poder ser fácilmente modificada y replicada.",
+      "places": "Actualmente estamos trabajando en <a href='https://www.coopbellaflor.org/quienes-somos1' target='_blank'>Área Reconquista</a> con organizaciones comunitarias en conjunto con <a href='https://rlab.be' target='_blank'>R'lyeh hacklab</a> la <a href='www.unsam.edu.ar' target='_blank'>Universidad de San Martín (UNSAM)</a>, el colectivo de artistas <a href='http://aerocene.org' target='_blank'>Aerocene</a> con el apoyo de <a href='https://science.mozilla.org' target='_blank'>Mozilla Science</a>.",
+      "image-desc": "También estamos desarrollando un juego online para difundir recursos útiles abiertos y concientizar el potencial de las herramientas libres para la ciencia comunitaria",
+      "image-desc2": "Buenos Aires es una de las ciudades que superan el límite establecido por la OMS de 10 μg/m3 para material particulado menor a 2.5 micrones, altamente nocivo para la salud humana. Sin embargo, la información pública sobre la calidad del aire del AMBA es inexistente. Las mediciones privadas son caras e inaccesibles, y los datos difíciles de leer. Combinando sensores de bajo costo disponibles en el mercado con la ética y filosofía del software libre, queremos mostrar cómo se pueden construir herramientas libres que sean útiles para abordar los problemas de las comunidades.",
+      "image-cred": "Crédito: Iconoclasistas"
+    },
+    "team": {
+      "title": "Equipo",
+      "details": "El proyecto surge de diferentes personas trabajando en <a href='https://rlab.be' target='_blank'>R'lyeh</a>, un hacklab o espacio comunitario horizontal en la Ciudad de Buenos Aires donde trabajamos temas de tecnología bajo la filosofía del software libre.",
+      "description": "Actualmente participamos <a href='https://twitter.com/yelomba' target='_blank'>Julieta</a>, <a href='https://github.com/violenti' target='_blank'>David</a>, <a href='https://github.com/Danieldaza' target='_blank'>Daniel</a>, <a href='https://github.com/Marshmaline' target='_blank'>Marshmaline</a>, <a href='https://github.com/vladimirAvilaProsser' target='_blank'>Vladimir</a>, <a href='https://github.com/z37a' target='_blank'>Zeta</a>, <a href='https://github.com/nanocastro' target='_blank'>Nano</a>, Patricia, <a href='https://github.com/lmaddio' target='_blank'>Leonardo</a> y <a href='https://github.com/thessaly' target='_blank'>Juli</a>."
+    },
+    "help": {
+      "title": "Cómo colaborar? ",
+      "subtitle": "Toda la documentación del proyecto está en nuestro GitHub ",
+      "details": "Si querés colaborar podés chequear nuestra <a href='https://github.com/rlyehlab/eter/blob/master/CONTRIBUTING_ES.md' target='_blank'>guía para colaboradores</a> y nuestro <a href='https://github.com/rlyehlab/eter/projects' target='_blank'>proyecto</a>, o consultá nuestra lista de <a href='https://github.com/rlyehlab/eter/issues' target='_blank'>issues pendientes</a>",
+      "contact": "También podés escribirnos a <a href='mailto:contacto@rlab.be'>contacto@rlab.be</a>"
+    }
+  }
+}

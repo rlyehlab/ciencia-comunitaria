@@ -1,0 +1,28 @@
+{
+  "home": {
+    "header": {
+      "title": "ETER",
+      "subtitle": "Open source air quality monitor for community science"
+    },
+    "lngError": "Sorry, there was an error changing the language. We will fix it in the next few days!",
+    "whatdoing": {
+      "title": "Que hacemos?",
+      "description": "ETER is a project that builds, together with high school teachers and community members in Buenos Aires, open source air quality monitors that measure particulate matter (PM 10, PM 2.5). We're documenting the experience online as a handbook, so anyone can remix it and replicate it.",
+    "places": "We are currently working in <a href='https://www.coopbellaflor.org/quienes-somos1' target='_blank'>Área Reconquista</a> with community organisations, <a href='https://rlab.be' target='_blank'>R'lyeh hacklab</a>, <a href='www.unsam.edu.ar' target='_blank'>Universidad de San Martín (UNSAM)</a>, and the collective of artists <a href='http://aerocene.org' target='_blank'>Aerocene</a>, supported by <a href='https://science.mozilla.org' target='_blank'>Mozilla Science</a>.",
+      "image-desc": "We're also developing an online game aimed to divulgate useful open resources and the potential of free/libre technologies for community science.",
+      "image-desc2": "Buenos Aires is one of the cities that exceeds the standard set by the World Health Organization for PM 2.5 (10 μg/m3), a very small fraction of dust that is harmful for people's health. However, information on Buenos Aires Metropolitan Area air quality is inexistant. some companies offer the service of monitoring air quality, but is expensive and therefore inaccesible, and data is difficult to understand for most of the population. We think people should be aware of the tools available that can help making their problems visible and searching for alternative local solutions. Combining low-cost sensors with free software ethics, we aim to show the potential of free/libre technologies for addressing community needs.",
+      "image-cred": "Credits: Iconoclasistas"
+    },
+    "team": {
+      "title": "Team",
+      "details": "ETER was born from the interaction of different people gathered at <a href='https://rlab.be' target='_blank'>R'lyeh</a>, a hacklab or horizontal community space in Buenos Aires city, where we work on technology with a free software perspective.",
+      "description": "At the moment, collaborators are <a href='https://twitter.com/yelomba' target='_blank'>Julieta</a>, <a href='https://github.com/violenti' target='_blank'>David</a>, <a href='https://github.com/Danieldaza' target='_blank'>Daniel</a>, <a href='https://github.com/Marshmaline' target='_blank'>Marshmaline</a>, <a href='https://github.com/vladimirAvilaProsser' target='_blank'>Vladimir</a>, <a href='https://github.com/z37a' target='_blank'>Zeta</a>, <a href='https://github.com/nanocastro' target='_blank'>Nano</a>, Patricia, <a href='https://github.com/lmaddio' target='_blank'>Leonardo</a> y <a href='https://github.com/thessaly' target='_blank'>Juli</a>.<br/>We applied to a Mozilla Science mini-grant for funding, and we got it! In case you're interested, this is the Letter of Intent we wrote for Mozilla."
+    },
+    "help": {
+      "title": "Contact us!",
+      "subtitle": "All the project documentation is available in GitHub ",
+      "details": "If you want to contribute, please check our <a href='https://github.com/rlyehlab/eter/blob/master/CONTRIBUTING_ES.md' target='_blank'>guide for collaborators</a> and our <a href='https://github.com/rlyehlab/eter/projects' target='_blank'>project</a> where we list all the tasks we're working on. You can also check our <a href='https://github.com/rlyehlab/eter/issues' target='_blank'>list of pending issues</a>.",
+      "contact": "You can contact us via e-mail: <a href='mailto:contacto@rlab.be'>contacto@rlab.be</a>"
+    }
+  }
+}
