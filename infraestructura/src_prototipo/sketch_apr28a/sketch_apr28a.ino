@@ -27,11 +27,13 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
+
+
 // Update these with values suitable for your network.
 
-const char* ssid = "Speedy-D6B7C0";
-const char* password = "3325142001";
-const char* mqtt_server = "192.168.1.39";
+const char* ssid = "xxx";
+const char* password = "xxx";
+const char* mqtt_server = "xxx";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
@@ -40,7 +42,6 @@ char msg[50];
 int value = 0;
 
 void setup() {
-  pinMode(BUILTIN_LED, OUTPUT);     // Initialize the BUILTIN_LED pin as an output
   Serial.begin(115200);
   setup_wifi();
   client.setServer(mqtt_server, 1883);
@@ -126,9 +127,10 @@ void loop() {
   if (now - lastMsg > 2000) {
     lastMsg = now;
     ++value;
-       (msg, 75, "hello world #%ld", value);
+    //sprintfl(msg, 75, "hello world #%ld", value);
+    char msg[]= "Hola desde martes";
     Serial.print("Publish message: ");
     Serial.println(msg);
-    client.publish("debug", msg);
+    client.publish("debug",msg );
   }
 }
