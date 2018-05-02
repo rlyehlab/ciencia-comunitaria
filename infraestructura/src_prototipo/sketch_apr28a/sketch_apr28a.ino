@@ -1,52 +1,69 @@
 /*
- Basic ESP8266 MQTT example
-
- This sketch demonstrates the capabilities of the pubsub library in combination
- with the ESP8266 board/library.
-
- It connects to an MQTT server then:
-  - publishes "hello world" to the topic "outTopic" every two seconds
-  - subscribes to the topic "inTopic", printing out any messages
-    it receives. NB - it assumes the received payloads are strings not binary
-  - If the first character of the topic "inTopic" is an 1, switch ON the ESP Led,
-    else switch it off
-
- It will reconnect to the server if the connection is lost using a blocking
- reconnect function. See the 'mqtt_reconnect_nonblocking' example for how to
- achieve the same result without blocking the main loop.
-
- To install the ESP8266 board, (using Arduino 1.6.4+):
-  - Add the following 3rd party board manager under "File -> Preferences -> Additional Boards Manager URLs":
-       http://arduino.esp8266.com/stable/package_esp8266com_index.json
-  - Open the "Tools -> Board -> Board Manager" and click install for the ESP8266"
-  - Select your ESP8266 in "Tools -> Board"
-  - Board Model: NODEMCU 0.9 ESP12 module
-
+ * Eter v1.0
+ * El prototipo Eter v1.0 mide la calidad de aire mediante el sensor 
+ * de particulas Sharp GP2Y1010AU0F y mide la temperatura y humedad relativa 
+ * mediante el sensor DHTXX.
+ * Para más información revisar el repositorio en
+ * http://
+ * 
+ * Este codigo está licenciado bajo ...
 */
 
-#include <ESP8266WiFi.h>
-#include <PubSubClient.h>
+
+#include <DHT11.h>
+#include "red.h"
+
+//variables geográficas
+char *lugar = "AREA_RECON";
+
+/*
+ *Definición de pins y variables constantes
+ */
+#define DELAY DHT11_RETRY_DELAY //delay comun
+#define DHTPIN D2  //DHT 
+#define LED_DUST D3 // dust sensor led
+#define MED_DUST A0 //dust sensor measure
+
+#define samplingTime 280 //dust_sensor
+#define deltaTime 40 //dust_sensor
+#define sleepTime 9680 //dust_sensor
 
 
-
-// Update these with values suitable for your network.
-
-const char* ssid = "xxx";
-const char* password = "xxx";
-const char* mqtt_server = "xxx";
-
+struct dht_med{
+  float tem;
+  float hum;
+};
+/*
+ * Definición de clases y estructuras
+ */
+DHT11 dht11(DHTPIN); 
 WiFiClient espClient;
 PubSubClient client(espClient);
+
+/*
+ * Definición de variables
+ */
+
 long lastMsg = 0;
 char msg[50];
 int value = 0;
+
+//topico : "AREA_RECON/DHT22/HUM/"
+char *topico = "";
+
+
 
 void setup() {
   Serial.begin(115200);
   setup_wifi();
   client.setServer(mqtt_server, 1883);
   client.setCallback(callback);
+  pinMode(LED_DUST, OUTPUT);
+  pinMode(DHTPIN, INPUT);
+  //dht.begin();
+
 }
+
 
 void setup_wifi() {
 
@@ -69,6 +86,9 @@ void setup_wifi() {
   Serial.println(WiFi.localIP());
 }
 
+
+
+
 void callback(char* topic, byte* payload, unsigned int length) {
   Serial.print("Message arrived [");
   Serial.print(topic);
@@ -77,17 +97,8 @@ void callback(char* topic, byte* payload, unsigned int length) {
     Serial.print((char)payload[i]);
   }
   Serial.println();
-
-  // Switch on the LED if an 1 was received as first character
-  if ((char)payload[0] == '1') {
-    digitalWrite(BUILTIN_LED, LOW);   // Turn the LED on (Note that LOW is the voltage level
-    // but actually the LED is on; this is because
-    // it is acive low on the ESP-01)
-  } else {
-    digitalWrite(BUILTIN_LED, HIGH);  // Turn the LED off by making the voltage HIGH
-  }
-
 }
+
 
 void reconnect() {
   // Loop until we're reconnected
@@ -111,26 +122,96 @@ void reconnect() {
 }
 
 
-/*
- * Aca deberiamos poner la función que conecta los sensores
- * Aca ponemos una función que conecta a los actuadores
- * 
- */
+
+float dust_sensor(){
+
+  float dustDensity;
+
+  //medicion
+  digitalWrite(LED_DUST,LOW); 
+  delayMicroseconds(samplingTime);
+  float voMeasured = analogRead(MED_DUST); 
+  delayMicroseconds(deltaTime);
+  digitalWrite(LED_DUST,HIGH); // turn the LED off
+  delayMicroseconds(sleepTime);
+  float calcVoltage = voMeasured * (3.3 / 1024);
+  float dust = 0.17 * calcVoltage - 0.1;
+  //fin medicion
+  
+  Serial.print(dust);
+  
+  
+  return dust;
+}
+
+
+dht_med dht_sensor(){
+
+  dht_med measure;
+  int err;
+  float temp;
+  float hum;
+  if((err=dht11.read(hum, temp))==0)
+  {  
+    measure.hum = hum;
+    measure.tem = temp;
+  }
+  else
+  {
+    Serial.println();
+    Serial.print("Error No :");
+    Serial.print(err);
+    Serial.println();    
+  }
+  return measure;
+}
+
+
+
+void pub(char *topico, char *msg){
+  
+  Serial.print("Publish message: ");
+  Serial.print(topico);
+  Serial.print(":");
+  Serial.println(msg);
+  client.publish(topico, msg);
+
+}
+
 void loop() {
 
   if (!client.connected()) {
     reconnect();
   }
   client.loop();
+  //long now = millis(); 
+  //if (now - lastMsg > 2000) {
+    //lastMsg = now;
+    //++value;
+    char DUS_measure[6]= "";
+    char TEM_measure[6]= "";
+    char HUM_measure[6]= "";
+    //tempHum dht_measure = dht_sensor();
+    float dust_med = dust_sensor();
+    dht_med measure = dht_sensor();
+    float tem_med = measure.hum;
+    float hum_med = measure.tem;
+    Serial.println(".......................");
+    Serial.print("dust:");
+    Serial.println(dust_med);
+    Serial.print("temp:");
+    Serial.println(tem_med);
+    Serial.print("hum:");
+    Serial.println(hum_med);
+    Serial.println(".......................");
+    
+    sprintf(DUS_measure, "%.02f", dust_med); //convertir a char*
+    sprintf(TEM_measure, "%.02f", tem_med); //convertir a char*
+    sprintf(HUM_measure, "%.02f", hum_med); //convertir a char*
+    pub("AREA_RECON/DUST_SENSOR/DUS", DUS_measure);
+    pub("AREA_RECON/DHT22/TEM", TEM_measure);
+    pub("AREA_RECON/DHT22/HUM", HUM_measure);
 
-  long now = millis();
-  if (now - lastMsg > 2000) {
-    lastMsg = now;
-    ++value;
-    //sprintfl(msg, 75, "hello world #%ld", value);
-    char msg[]= "Hola desde martes";
-    Serial.print("Publish message: ");
-    Serial.println(msg);
-    client.publish("debug",msg );
-  }
+  //}
+  delay(5000);
 }
