@@ -3,7 +3,7 @@
 
 :uk: [English version](README_ES.md)
 
-<img src="https://github.com/rlyehlab/eter/blob/master/recursos/icono.svg" width=10%>
+<img src="https://github.com/rlyehlab/eter/blob/master/documentacion/dise%C3%B1o/icono.svg" width=10%>
 
 ### :tada: ¡Bienvenida!
 
