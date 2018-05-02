@@ -184,10 +184,7 @@ void loop() {
     reconnect();
   }
   client.loop();
-  //long now = millis(); 
-  //if (now - lastMsg > 2000) {
-    //lastMsg = now;
-    //++value;
+
     char DUS_measure[6]= "";
     char TEM_measure[6]= "";
     char HUM_measure[6]= "";
@@ -196,6 +193,7 @@ void loop() {
     dht_med measure = dht_sensor();
     float tem_med = measure.hum;
     float hum_med = measure.tem;
+    
     Serial.println(".......................");
     Serial.print("dust:");
     Serial.println(dust_med);
@@ -204,7 +202,8 @@ void loop() {
     Serial.print("hum:");
     Serial.println(hum_med);
     Serial.println(".......................");
-    
+
+    // Publicar mediciones de sensores ........
     sprintf(DUS_measure, "%.02f", dust_med); //convertir a char*
     sprintf(TEM_measure, "%.02f", tem_med); //convertir a char*
     sprintf(HUM_measure, "%.02f", hum_med); //convertir a char*
@@ -212,6 +211,5 @@ void loop() {
     pub("AREA_RECON/DHT22/TEM", TEM_measure);
     pub("AREA_RECON/DHT22/HUM", HUM_measure);
 
-  //}
   delay(5000);
 }
