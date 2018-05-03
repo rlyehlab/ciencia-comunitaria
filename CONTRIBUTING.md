@@ -1,6 +1,6 @@
 # I want to contribute!
 
-First of all, thanks :smile:: :sparkling_heart: :sparkles:
+First of all, thank you :smile: :sparkling_heart: :sparkles:
 
 ## Important stuff
 
@@ -19,14 +19,11 @@ You can report any unacceptable situationvia e-mail: [contacto@rlab.be](mailto:c
 
 ## How can I contribute?
 
-As a first step, you can check our [Roadmap](https://github.com/rlyehlab/eter/projects).
+ETER is organised in three main sub-projects:
 
-There you will find that ETER is organised in four sub-projects:
-
-* [Device building](https://github.com/rlyehlab/eter/projects/4)
-* [Game development](https://github.com/rlyehlab/eter/projects/3)
-* [Community engagement](https://github.com/rlyehlab/eter/projects/2)
-* [General & Documentation](https://github.com/rlyehlab/eter/projects/5)
+* [ETER-monitor](https://github.com/rlyehlab/eter-monitor)
+* [ETER-workshop](https://github.com/rlyehlab/eter-workshop)
+* [ETER-game](https://github.com/rlyehlab/eter-game)
 
 Each sub-project contains tasks or *issues*, categorised in:
 
@@ -38,24 +35,25 @@ Each sub-project contains tasks or *issues*, categorised in:
 
 If this is your first time collaborating in a project, we suggest you find a concrete initial task to contribute with :wink:
 
-You can look for the label *'good first issue'*. You can see all the issues labeled *'good first issue'* by clicking [here](https://github.com/rlyehlab/eter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+1. Choose a sub-project, go to the repo
+2. Go to the Issues tab
+3. Search for issues labeled *'good first issue'*
 
+Once you detect an issue to work on, leave a comment on it with your contribution.
 
 ### Pending tasks
 
-There are two ways of seeing all pending tasks:
+To take a look at pending stuff:
 
-* Entering the sub-project you're interested in and taking a look at the "To do" panel
+1. Choose a sub-project, go to the repo
+2. Go to the project tab
+3. Check issues listed under "to do" panel
 
-* Checking the general list of [*issues*](https://github.com/rlyehlab/eter/issues), that only contains the "To Do" and "In progress" ones
-
-There are lots of things to do, just choose one you like and leave a comment :smile:
-
+Once you detect an issue to work on, leave a comment on it with your contribution. 
 
 ### Suggesting enhancements
 
-If you see anything that can be enhanced (text, code, translations, anything) just [create an *issue*](https://help.github.com/articles/creating-an-issue/) or if you're familiar with GitHub, create a pull request.
-
+If you see anything that can be enhanced (text, code, translations, anything) just [create an *issue*](https://help.github.com/articles/creating-an-issue/) and if you're familiar with GitHub, propose a change and create a pull request.
 
 ### I have a question
 
