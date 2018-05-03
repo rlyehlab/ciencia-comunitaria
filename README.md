@@ -1,9 +1,7 @@
-# ETER
+# ETER <img src="https://github.com/rlyehlab/ETER/blob/master/general/design/icono.svg" width=3% height=20%>  
 ***Open source Air Quality Monitor for community science***
 
 :es: [Versión en Español](_ES/README_ES)
-
-<img src="https://github.com/rlyehlab/ETER/blob/master/general/design/icono.svg" width=10%>
 
 ### :heart: Quick links
 
@@ -16,6 +14,7 @@
 |[Collaborator's Guide](CONTRIBUTING.md)| Want to contribute? Read this!
 |[Code of Conduct](CODE_OF_CONDUCT.md)| Please read so we can all be as happy as possible <3
 
+*** 
 ### :tada: Welcome!
 
 In this README file you'll find all the information about ETER project :raised_hands:
