@@ -11,6 +11,7 @@
 |[ETER-monitor](https://github.com/rlyehlab/eter-monitor)|Info & Issues on air quality monitor hardware&software
 |[ETER-workshop](https://github.com/rlyehlab/eter-workshop)| Info & Issues on workshop development
 |[ETER-game](https://github.com/rlyehlab/eter-game)| Info & Issues on game development
+|[ETER wiki](https://github.com/rlyehlab/ETER/wiki)| Containing project journal, useful links, info about Area Reconquista
 |[Collaborator's Guide](CONTRIBUTING.md)| Want to contribute? Read this!
 |[Code of Conduct](CODE_OF_CONDUCT.md)| Please read so we can all be as happy as possible <3
 
