@@ -18,12 +18,9 @@ You can scroll down and keep reading or go directly to one of the following sect
 * [Glossary](#glossary)
 
 
-### :balloon: What are we doing?
+Air pollution is an invisible threat, affecting the health of 80% of urban population[1](http://breathelife2030.org/). However, public air quality data in places like Buenos Aires Metropolitan Area is inexistant. Monitoring is expensive and therefore inaccesible, and data is difficult to understand for most of the population.
 
-#### The problem
-Air pollution is an invisible threat, affecting the health of 80% of urban population[1](http://breathelife2030.org/). In 2016 the WHO determined Buenos Aires (Argentina) air quality exceeds the recommended standard of 10 μg/m3 for particulate matter (PM) that has a diameter of less than 2.5 micrometers[2](http://gamapserver.who.int/gho/interactive_charts/phe/oap_exposure/atlas.html), highly detrimental to human health.
-
-However, public air quality data of Buenos Aires Metropolitan Area is inexistant. Monitoring is expensive and therefore inaccesible, and data is difficult to understand for most of the population.
+We think people should be aware of the tools available that can help making their problems visible and searching for alternative local solutions. Combining low-cost sensors with free software ethics, we aim to show the potential of free/libre technologies for addressing community needs.
 
 #### What are we doing?
 
@@ -33,28 +30,24 @@ However, public air quality data of Buenos Aires Metropolitan Area is inexistant
 
 3- We are developing an online game aimed to divulgate open resources that are useful for implementing community science projects [GAME REPO](https://github.com/rlyehlab/eter-game)
 
-We think people should be aware of the tools available that can help making their problems visible and searching for alternative local solutions. Combining low-cost sensors with free software ethics, we aim to show the potential of free/libre technologies for addressing community needs.
-
-### :balloon: How can I contribute?
+### How can you contribute?
 If you want to contribute, please check our [guide for collaborators](CONTRIBUTING.md). 
 
 For us is important to keep a friendly and supportive environment within the project :) That's why we ask you to read our [code of conduct](CODE_OF_CONDUCT.md), that applies both to online and offline meetings.
 
-### :balloon: Who are we?
-ETER was born from the interaction of different people gathered at [R'lyeh](https://wiki.rlab.be), a hacklab or horizontal community space in Buenos Aires city, where we work on technology with a free software perspective.
-
+### Who are we?
 At the moment, collaborators are [Julieta](https://twitter.com/yelomba), [Leo](https://github.com/lmaddio), [Daniel](https://github.com/Danieldaza), [Marshmaline](https://github.com/Marshmaline), [Vladimir](https://github.com/vladimirAvilaProsser), [Zeta](https://github.com/z37a), [Nano](https://github.com/nanocastro), Patricia and [Juli](https://github.com/thessaly).
 
-[Universidad Nacional de San Martín](http://www.unsam.edu.ar/) and [Aerocene](http://aerocene.org/), an artists collective, are also part of ETER.
+ETER was born at [R'lyeh](https://wiki.rlab.be). [Universidad Nacional de San Martín](http://www.unsam.edu.ar/) and [Aerocene](http://aerocene.org/), an artists collective, are also part of ETER.
 
 We applied to a [Mozilla Science](https://science.mozilla.org/) mini-grant for funding, and we got it! In case you're interested, [this](https://github.com/rlyehlab/eter/blob/master/financiamiento/letter_of_intent.md) is the Letter of Intent we wrote for Mozilla. Juli is also attending the [Mozilla Open Leaders Programme](https://mozilla.github.io/leadership-training/round-5/projects/#cohort-d) with ETER project. 
 
-### :balloon: Contact
+### Contact
 If you have any question you can contact us via e-mail: <contacto@rlab.be> or you can open an issue in GitHub if you're familiar with the procedure.
 
-# :sparkles: Thank you for visiting us!
+### :sparkles: Thank you for visiting us! :star2: :sparkling_heart:
 
-ETER is a collaborative project, we are all doing it together. Thanks for reading! :star2: :sparkling_heart:
+***
 
 #### :question: Glossary
 * **WHO**: World Health Organization
