@@ -9,6 +9,7 @@
 |-----|------|
 |[ETER Main Repository](https://github.com/rlyehlab/eter)|Info & Issues on comms, design, translations, project management
 |[ETER-monitor](https://github.com/rlyehlab/eter-monitor)|Info & Issues on air quality monitor hardware&software
+|[Bill of Materials](https://github.com/rlyehlab/eter-monitor/blob/master/doc/BillOfMaterials.md)| List of materials needed to build one air quality monitor
 |[ETER-workshop](https://github.com/rlyehlab/eter-workshop)| Info & Issues on workshop development
 |[ETER-game](https://github.com/rlyehlab/eter-game)| Info & Issues on game development
 |[ETER wiki](https://github.com/rlyehlab/ETER/wiki)| Containing project journal, useful links, info about Area Reconquista
