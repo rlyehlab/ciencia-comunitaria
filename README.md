@@ -3,6 +3,10 @@
 
 :es: [Versión en Español](_ES/README_ES.md)
 
+### Mozsprint? 
+
+Welcome :D Check the [issues](https://github.com/rlyehlab/ETER/issues) labeled in yellow - 'mozsprint'!
+
 ### :heart: Quick links
 
 |Link|Description|
