@@ -1,7 +1,7 @@
 # ETER <img src="https://github.com/rlyehlab/ETER/blob/master/general/design/icono.svg" width=3% height=20%>  
 ***Open source Air Quality Monitor for community science***
 
-:es: [Versión en Español](_ES/README_ES)
+:es: [Versión en Español](_ES/README_ES.md)
 
 ### :heart: Quick links
 
